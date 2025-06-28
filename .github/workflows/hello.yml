@@ -3,7 +3,7 @@ name: Print Collaborator and Project Name
 on:
   push:
     branches:
-      - main
+      - branch1
 
 jobs:
   print-info:
